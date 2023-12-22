@@ -24,6 +24,12 @@ app.get('/category/:id',(req,res)=>{
    
 })
 
+app.get('/course/:id',(req,res)=>{
+    const id=req.params.id;
+    const data=courses.find(x=>x.id==id);
+    res.send(data);
+})
+
 app.listen(port,()=>{
     console.log("listening at port 8080");
 })
