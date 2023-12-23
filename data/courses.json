@@ -3,13 +3,13 @@
     {   "id":1,
         "category_id": 1,
         "course_name": "Introduction to html",
-        "image" :"https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Design-Process-Blog-Post-Feature-Image-36119-01-1024x537.png",
+        "image" :"https://tipsrain.com/wp-content/uploads/2023/02/6316f4d348cda_-HTML.png.b0ec735790863d7847b677a1be10acd3.png",
         "author":{
             "image":"https://hips.hearstapps.com/hmg-prod/images/actor-johnny-depp-attends-the-jeanne-du-barry-photocall-at-news-photo-1685634329.jpg?crop=1.00xw:0.669xh;0,0.0477xh&resize=1200:*",
             "name":"jonny depp"
         },
         "rating":4.3,
-        "sold":1200,
+        "sold":100,
         "price":200,
         "details":"Brand New Course! Covers Flexbox, CSS Grid, Animations, Responsive Design and More! Tons of Exercises & Projects."
         ,"duration":10,
@@ -20,14 +20,14 @@
     {   "id":2,
         "category_id": 1,
         "course_name": "Introduction to css",
-        "image" :"https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Design-Process-Blog-Post-Feature-Image-36119-01-1024x537.png",
+        "image" :"https://colorlib.com/wp/wp-content/uploads/sites/2/free-css3-frameworks.png.webp",
         "author":{
             "image":"https://hips.hearstapps.com/hmg-prod/images/actor-johnny-depp-attends-the-jeanne-du-barry-photocall-at-news-photo-1685634329.jpg?crop=1.00xw:0.669xh;0,0.0477xh&resize=1200:*",
             "name":"jonny depp"
         },
         "rating":4.3,
-        "sold":1200,
-        "price":200,
+        "sold":200,
+        "price":220,
         "details":"Brand New Course! Covers Flexbox, CSS Grid, Animations, Responsive Design and More! Tons of Exercises & Projects."
         ,"duration":10,
         "lessons":36
@@ -37,14 +37,14 @@
     {   "id":3,
         "category_id": 1,
         "course_name": "Introduction to JavaScript",
-        "image" :"https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Design-Process-Blog-Post-Feature-Image-36119-01-1024x537.png",
+        "image" :"https://www.turing.com/_next/image?url=https%3A%2F%2Fd2mk45aasx86xg.cloudfront.net%2FJava_Script_ES_2022_Features_11zon_a29d3c0c53.jpg&w=1920&q=75",
         "author":{
             "image":"https://hips.hearstapps.com/hmg-prod/images/actor-johnny-depp-attends-the-jeanne-du-barry-photocall-at-news-photo-1685634329.jpg?crop=1.00xw:0.669xh;0,0.0477xh&resize=1200:*",
             "name":"jonny depp"
         },
         "rating":4.3,
-        "sold":1200,
-        "price":200,
+        "sold":300,
+        "price":240,
         "details":"The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!"
         ,"duration":10,
         "lessons":36
@@ -53,14 +53,14 @@
     {    "id":4,
         "category_id": 1,
         "course_name": "Mastering React",
-        "image" :"https://solidwp.com/wp-content/uploads/2019/08/What-is-Your-Website-Design-Process-Blog-Post-Feature-Image-36119-01-1024x537.png",
+        "image" :"https://cdn2.scalablepath.com/_next/image?url=https%3A%2F%2Fcdn-blog.scalablepath.com%2Fuploads%2F2023%2F03%2Freact18-new-features-updates-1.png&w=1200&q=75",
         "author":{
             "image":"https://hips.hearstapps.com/hmg-prod/images/actor-johnny-depp-attends-the-jeanne-du-barry-photocall-at-news-photo-1685634329.jpg?crop=1.00xw:0.669xh;0,0.0477xh&resize=1200:*",
             "name":"jonny depp"
         },
         "rating":4.3,
-        "sold":1200,
-        "price":200,
+        "sold":400,
+        "price":260,
         "details":"Dive in and learn React.js from scratch! Learn React, Hooks, Redux, React Router, Next.js, Best Practices and way more!"
         ,"duration":10,
         "lessons":36
@@ -70,14 +70,14 @@
     {   "id":5,
         "category_id": 2,
         "course_name": "Introduction to Flutter",
-        "image" :"https://media.designrush.com/articles/101246/conversions/app-development-process-details.jpg",
+        "image" :"https://www.orangemantra.com/blog/wp-content/uploads/2020/01/What-Makes-Flutter-Ideal-For-Mobile-App-Development-In-2020-And-Beyond.jpg",
         "author":{
             "image":"https://hips.hearstapps.com/hmg-prod/images/actor-johnny-depp-attends-the-jeanne-du-barry-photocall-at-news-photo-1685634329.jpg?crop=1.00xw:0.669xh;0,0.0477xh&resize=1200:*",
             "name":"jonny depp"
         },
         "rating":4.3,
-        "sold":1200,
-        "price":200,
+        "sold":500,
+        "price":280,
         "details":"A Complete Guide to the Flutter SDK & Flutter Framework for building native iOS and Android apps."
         ,"duration":10,
         "lessons":36
@@ -93,8 +93,8 @@
             "name":"jonny depp"
         },
         "rating":4.3,
-        "sold":1200,
-        "price":200,
+        "sold":600,
+        "price":300,
         "details":"A Complete Guide to the Flutter SDK & Flutter Framework for building native iOS and Android apps"
         ,"duration":10,
         "lessons":36
@@ -104,14 +104,14 @@
     {   "id":7,
         "category_id": 2,
         "course_name": "Introduction to Android Studio",
-        "image" :"https://media.designrush.com/articles/101246/conversions/app-development-process-details.jpg",
+        "image" :"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKoAufYiAR36mWljxnxgUSxlgyQf7PRyPn3axUZPdDid7Cv7mVEuTCaA0PriHdRLPurGgI4sVFjmB_fMtKBgd6KWu_bDKdqMywm-AL-iOX3c69obt2sqeX5KVQVqkzcE8-xG-28yRDXx7X6-ZaNRIUlYmABYmi_8XfFYuYs5IMPU0gv9EbyutqDAfk/s1600/Android%20Studio%20-%20Header.png",
         "author":{
             "image":"https://hips.hearstapps.com/hmg-prod/images/actor-johnny-depp-attends-the-jeanne-du-barry-photocall-at-news-photo-1685634329.jpg?crop=1.00xw:0.669xh;0,0.0477xh&resize=1200:*",
             "name":"jonny depp"
         },
         "rating":4.3,
-        "sold":1200,
-        "price":200,
+        "sold":70,
+        "price":320,
         "details":"A Complete Guide to the Flutter SDK & Flutter Framework for building native iOS and Android apps"
         ,"duration":10,
         "lessons":36
@@ -120,14 +120,14 @@
    {    "id":8,
         "category_id": 3,
         "course_name": "Introduction to C++",
-        "image" :"https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/102022_Game-development_Break-into-Game-Development_Thumbnail--1024x476.png",
+        "image" :"https://www.simplilearn.com/ice9/webinar_thum_image/CPP_Tutorial.jpg",
         "author":{
             "image":"https://hips.hearstapps.com/hmg-prod/images/actor-johnny-depp-attends-the-jeanne-du-barry-photocall-at-news-photo-1685634329.jpg?crop=1.00xw:0.669xh;0,0.0477xh&resize=1200:*",
             "name":"jonny depp"
         },
         "rating":4.3,
-        "sold":1200,
-        "price":200,
+        "sold":700,
+        "price":400,
         "details":"Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C++17 covered. C++20 info see below."
         ,"duration":10,
         "lessons":36
@@ -137,14 +137,14 @@
     {   "id":9,
         "category_id": 3,
         "course_name": "Introduction to C#",
-        "image" :"https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/102022_Game-development_Break-into-Game-Development_Thumbnail--1024x476.png",
+        "image" :"https://cdn.pvs-studio.com/import/docx/blog/1002_csharp11overview/image1.png?ver=10-18-2023-18-05-14",
         "author":{
             "image":"https://hips.hearstapps.com/hmg-prod/images/actor-johnny-depp-attends-the-jeanne-du-barry-photocall-at-news-photo-1685634329.jpg?crop=1.00xw:0.669xh;0,0.0477xh&resize=1200:*",
             "name":"jonny depp"
         },
         "rating":4.3,
-        "sold":1200,
-        "price":200,
+        "sold":1800,
+        "price":480,
         "details":"Learn C# Programming - WPF, Databases, Linq, Collections, Game Development with Unity. Unit Testing TDD"
         ,"duration":10,
         "lessons":36
@@ -153,14 +153,14 @@
     {   "id":10,
         "category_id": 4,
         "course_name": "Introduction to Figma",
-        "image" :"https://supersourcing.com/blog/wp-content/uploads/2021/07/1-8.jpg",
+        "image" :"https://quolum.com/blog/wp-content/uploads/2023/01/coverimage.png",
         "author":{
             "image":"https://hips.hearstapps.com/hmg-prod/images/actor-johnny-depp-attends-the-jeanne-du-barry-photocall-at-news-photo-1685634329.jpg?crop=1.00xw:0.669xh;0,0.0477xh&resize=1200:*",
             "name":"jonny depp"
         },
         "rating":4.3,
-        "sold":1200,
-        "price":200,
+        "sold":900,
+        "price":700,
         "details":"Use Figma to get a job in UI Design, User Interface, User Experience design, UX Design & Web Design"
         ,"duration":10,
         "lessons":36
@@ -171,14 +171,14 @@
         "category_id": 4,
         "course_name": "Introduction to Adobe",
        
-        "image" :"https://supersourcing.com/blog/wp-content/uploads/2021/07/1-8.jpg",
+        "image" :"https://duet-cdn.vox-cdn.com/thumbor/0x0:1920x1080/640x427/filters:focal(960x540:961x541):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24760594/Adobe_wordmark.jpg",
         "author":{
             "image":"https://hips.hearstapps.com/hmg-prod/images/actor-johnny-depp-attends-the-jeanne-du-barry-photocall-at-news-photo-1685634329.jpg?crop=1.00xw:0.669xh;0,0.0477xh&resize=1200:*",
             "name":"jonny depp"
         },
         "rating":4.3,
-        "sold":1200,
-        "price":200,
+        "sold":650,
+        "price":900,
         "details":"Use adobe to get a job in UI Design, User Interface, User Experience design, UX Design & Web Design"
         ,"duration":10,
         "lessons":36
@@ -194,7 +194,7 @@
             "name":"jonny depp"
         },
         "rating":4.3,
-        "sold":1200,
+        "sold":1400,
         "price":200,
         "details":"The Ultimate Graphic Design Course Which Covers Photoshop, Illustrator, InDesign, Design Theory, Branding & Logo Design"
         ,"duration":10,
@@ -210,8 +210,8 @@
             "name":"jonny depp"
         },
         "rating":4.3,
-        "sold":1200,
-        "price":200,
+        "sold":40,
+        "price":1100,
         "details":"Digital Marketing, Social Media, ChatGPT, Prompt Engineering, Google Ads, Facebook, SEO, WordPress, Instagram, YouTube."
         ,"duration":10,
         "lessons":36
