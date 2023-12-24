@@ -7,6 +7,9 @@ const port=8080;
 const app=express();
 app.use(cors());
 
+app.get('/',(req,res)=>{
+    res.send("Learning hub server");
+})
 app.get('/categories',(req,res)=>{
     console.log(categories);
     res.send(categories);
